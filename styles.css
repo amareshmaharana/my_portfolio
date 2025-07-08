@@ -198,9 +198,9 @@ img {
 }
 
 .perfil__img {
-  width: 250px;
+  width: 350px;
   position: absolute;
-  /* top: 70px; */
+  top: 70px;
   justify-self: center;
   align-self: flex-end;
 }
